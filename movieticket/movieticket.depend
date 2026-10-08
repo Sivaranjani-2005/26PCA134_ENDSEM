@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1791431965 source:m:\c++\movieticket\main.cpp
+	<iostream>
+	<queue>
+

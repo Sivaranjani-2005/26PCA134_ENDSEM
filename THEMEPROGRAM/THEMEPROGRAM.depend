@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1791430866 source:m:\c++\themeprogram\main.cpp
+	<iostream>
+	<queue>
+
